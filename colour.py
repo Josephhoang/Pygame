@@ -1,0 +1,8 @@
+gray=(119,118,110)
+black=(0,0,0)
+red=(255,0,0)
+green=(0,200,0)
+turqoise=(0,128,128)
+bright_red=(255,0,0)
+bright_green=(0,255,0)
+turqoise=(0,128,128)
